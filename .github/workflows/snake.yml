@@ -1,0 +1,33 @@
+name: Generate Snake GIF
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pink Snake GIF
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Chamudika31
+          outputs: |
+            dist/github-contribution-grid-snake.gif?color_snake=#ff1493&color_dots=#1e1e2e,#4a154b,#993366,#ff69b4,#ff1493&color_background=#181825
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
