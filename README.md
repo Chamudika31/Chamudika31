@@ -79,7 +79,7 @@
 
 ---
 
-<h3 align="left">🌸 Mini Game</h3>
+<h3 align="left">🌸 Pixel Play</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Chamudika31/Chamudika31/output/github-contribution-grid-snake.gif?raw=true" alt="Snake animation" width="100%" />
 </div>
