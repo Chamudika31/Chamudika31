@@ -3,7 +3,7 @@
   <!-- Pink Typing SVG Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Chamudika+Yagabamunu;Computer+Engineering+Undergraduate+%40+UoP" alt="Typing SVG" />
 
-  <!-- Retro Pixel Arcade Banner -->
+  <!-- Retro Pixel Pastel Game Banner -->
   <br/>
   <img src="https://media.giphy.com/media/L19Vq68z117n8f49uF/giphy.gif" width="550" alt="Pixel Game Banner" />
 
@@ -79,9 +79,9 @@
 
 ---
 
-<h3 align="left">🕹️ Arcade Zone</h3>
+<h3 align="left">🌸 Cozy Game Corner</h3>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Retro Arcade Game Animation" />
+  <img src="https://media.giphy.com/media/mDLkpVWddyqqI/giphy.gif" width="340" alt="Cute Retro Game Animation" />
 </div>
 
 ---
@@ -89,10 +89,10 @@
 <h3 align="left">📊 GitHub Activity & Metrics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chamudika31&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=181825&hide_border=true" alt="Chamudika31 stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chamudika31&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=181825&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chamudika31&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&hide_border=true" alt="Chamudika31 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamudika31&layout=compact&theme=radical&title_color=ff69b4&hide_border=true" alt="Top Languages" />
   
   <br/><br/>
   
-  <img src="https://streak-stats.demolab.com?user=Chamudika31&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=181825&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamudika31&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&hide_border=true" alt="Streak Stats" />
 </div>
