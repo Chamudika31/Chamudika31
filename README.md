@@ -8,12 +8,11 @@
   <!-- Pink Typing SVG Subheader -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+my+profile!;Computer+Engineering+Undergraduate+%40+UoP;Passionate+about+IoT%2C+Cloud+%26+Deep+Learning" alt="Typing SVG" />
 
-</div>
+  <!-- Working Pink Theme Profile Views Counter -->
+  <br/><br/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChamudika31&count_bg=%23FF69B4&title_bg=%2320232A&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 
-<!-- Pink Theme Visitor Counter -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=chamudika31&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="chamudika31" /> 
-</p>
+</div>
 
 ---
 
