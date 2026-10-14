@@ -1,16 +1,14 @@
 <div align="center">
 
-  <!-- Pink Typing SVG Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Chamudika+Yagabamunu;Computer+Engineering+Undergraduate+%40+UoP" alt="Typing SVG" />
+  <!-- Pink Pastel Dynamic Waving Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11&height=220&section=header&text=Chamudika%20Yagabamunu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Undergraduate%20@%20University%20of%20Peradeniya&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  
+  <br/><br/>
 
-  <!-- Retro Pixel Pastel Game Banner -->
-  <br/>
-  <img src="https://media.giphy.com/media/L19Vq68z117n8f49uF/giphy.gif" width="550" alt="Pixel Game Banner" />
+  <!-- Pink Typing SVG Subheader -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+my+profile!;Computer+Engineering+Undergraduate+%40+UoP;Passionate+about+IoT%2C+Cloud+%26+Deep+Learning" alt="Typing SVG" />
 
 </div>
-
-<h1 align="center">Hi 👋, I'm Chamudika Yagabamunu</h1>
-<h3 align="center">Computer Engineering Undergraduate @ University of Peradeniya</h3>
 
 <!-- Pink Theme Visitor Counter -->
 <p align="center"> 
@@ -45,7 +43,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chamudika-yagabamunu-ab0b0b434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamudika-yagabamunu-ab0b0b434" height="30" width="40" /></a>
 <a href="https://kaggle.com/chamudika31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chamudika31" height="30" width="40" /></a>
-<a href="https://fb.com/chamudika yagabamunu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamudika yagabamunu" height="30" width="40" /></a>
+<a href="https://facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/chamuu_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamuu_31" height="30" width="40" /></a>
 </p>
 
